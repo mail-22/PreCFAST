@@ -1,0 +1,8 @@
+D:\Dropbox\Share\Work\CFAST\precfast\PreCFAST_Application\PreCFAST\bin\Debug\PreCFAST.exe
+D:\Dropbox\Share\Work\CFAST\precfast\PreCFAST_Application\PreCFAST\bin\Debug\PreCFAST.pdb
+D:\Dropbox\Share\Work\CFAST\precfast\PreCFAST_Application\PreCFAST\obj\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\Share\Work\CFAST\precfast\PreCFAST_Application\PreCFAST\obj\Debug\WindowsFormsApplication9.Form1.resources
+D:\Dropbox\Share\Work\CFAST\precfast\PreCFAST_Application\PreCFAST\obj\Debug\PreCFAST.Properties.Resources.resources
+D:\Dropbox\Share\Work\CFAST\precfast\PreCFAST_Application\PreCFAST\obj\Debug\PreCFAST.csproj.GenerateResource.Cache
+D:\Dropbox\Share\Work\CFAST\precfast\PreCFAST_Application\PreCFAST\obj\Debug\PreCFAST.exe
+D:\Dropbox\Share\Work\CFAST\precfast\PreCFAST_Application\PreCFAST\obj\Debug\PreCFAST.pdb

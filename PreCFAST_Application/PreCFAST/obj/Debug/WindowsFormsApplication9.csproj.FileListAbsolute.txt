@@ -1,0 +1,24 @@
+d:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\ResolveAssemblyReference.cache
+d:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form1.resources
+d:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Properties.Resources.resources
+d:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csproj.GenerateResource.Cache
+d:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe
+d:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.pdb
+d:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.exe
+d:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.pdb
+D:\Dropbox\Share\Work\PreCFAST\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.exe
+D:\Dropbox\Share\Work\PreCFAST\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.pdb
+D:\Dropbox\Share\Work\PreCFAST\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe
+D:\Dropbox\Share\Work\PreCFAST\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.pdb
+D:\Dropbox\Share\Work\PreCFAST\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\Share\Work\PreCFAST\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form1.resources
+D:\Dropbox\Share\Work\PreCFAST\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Properties.Resources.resources
+D:\Dropbox\Share\Work\PreCFAST\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csproj.GenerateResource.Cache
+D:\Dropbox\Share\Work\CFAST\PreCFAST\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe
+D:\Dropbox\Share\Work\CFAST\PreCFAST\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.pdb
+D:\Dropbox\Share\Work\CFAST\PreCFAST\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\Share\Work\CFAST\PreCFAST\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form1.resources
+D:\Dropbox\Share\Work\CFAST\PreCFAST\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Properties.Resources.resources
+D:\Dropbox\Share\Work\CFAST\PreCFAST\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csproj.GenerateResource.Cache
+D:\Dropbox\Share\Work\CFAST\PreCFAST\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.exe
+D:\Dropbox\Share\Work\CFAST\PreCFAST\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.pdb
